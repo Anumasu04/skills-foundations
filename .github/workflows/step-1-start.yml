@@ -8,7 +8,16 @@ on:
 jobs:
   step_1:
     runs-on: ubuntu-latest
+
+    permissions:
+      issues: write
+      contents: read
+
     steps:
-      - name: Start course
+      - name: Create Issue for Step 1
         run: |
-          echo "Welcome to Step 1 of the GitHub Skills course"
+          gh issue create \
+            --title "Step 1: Welcome to GitHub Skills" \
+            --body "🎉 Congratulations! You have successfully triggered your first GitHub Actions workflow. This is Step 1 of the course."
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
