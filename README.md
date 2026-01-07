@@ -1,31 +1,37 @@
-# (replace-me: Exercise title)
+GitHub Foundations Skills Course
 
-_(replace-me: One-line description of the exercise)_
+
+Learn Git and GitHub basics through hands-on exercises.
+
 
 ## Welcome
 
-- **Who is this for**: (replace-me: Target audience description)
-- **What you'll learn**: (replace-me: Learning objectives)
-- **What you'll build**: (replace-me: Description of what the learner will create)
+- **Who is this for**: (Beginners who want to learn Git and GitHub from scratch.)
+- **What you'll learn**: You will learn repositories, branches, commits, pull requests, and GitHub Actions.)
+- **What you'll build**: (You will build and manage a complete GitHub repository.)
 - **Prerequisites**:
-  - (replace-me: Prerequisite skill/exercise)
-  - (replace-me: Other prerequisites)
-
-- **How long**: This exercise takes less than (replace-me: estimated time) to complete.
+  - (A GitHub account and basic computer knowledge.)
+  
+- **How long**: This exercise takes less than (30–45 minutes) to complete.
 
 In this exercise, you will:
 
-1. (replace-me: Learning objective step #1)
-1. (replace-me: Learning objective step #2)
-1. (replace-me: Learning objective step #N)
+1. Create a branch
+2. Make a commit
+3. Open a pull request
+
+
 
 
 ### How to start this exercise
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+Simply copy the exercise to your account, then give your favorite Octocat (Mona) about 20 seconds to prepare the first lesson, then refresh the page.
 
-<!--  (replace-me: Make sure to edit the URL with proper template_owner, template_name, repo name and description)  -->
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=exercise-template&owner=%40me&name=skills-<replace-me>&description=Exercise:+Replace+me&visibility=public)
+
+[![Copy Exercise](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github)](https://github.com/new?template_owner=skills&template_name=exercise-template&owner=Anumasu04&name=skills-foundations&description=GitHub+Skills+Exercise&visibility=public)
+
+
+
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
