@@ -1,0 +1,14 @@
+name: Step 1 - Start
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  step_1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start course
+        run: |
+          echo "Welcome to Step 1 of the GitHub Skills course"
